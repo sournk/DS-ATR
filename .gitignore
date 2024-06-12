@@ -27,6 +27,8 @@
 *.lib
 
 # Executables
+*.ex5
 *.exe
 *.out
 *.app
+.DS_Store
